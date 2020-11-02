@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cerendardagan/Desktop/2017-2018 first semester/cmpe250/cmpe250-project4-yagmurcerendardagan2014400063/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+vector
+-
+queue
+-
+iterator
+-
+
